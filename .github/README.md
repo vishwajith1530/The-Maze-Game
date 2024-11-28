@@ -70,8 +70,8 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 ## Contact
 
-You can reach out to me at [info@movie-verse.com](mailto:info@movie-verse.com) if you have any queries or feedback regarding the project.
+You can reach out to me at [vishwajithraj@gmail.com](mailto:vishwajithraj@gmail.com) if you have any queries or feedback regarding the project.
 
 ---
 
-Created with ❤️ in 2024 by [Son Nguyen](https://github.com/hoangsonww). Thank you for visiting and playing the game! 🚀
+Created with ❤️ in 2024 by [Vishwajith Rajendran](https://github.com/vishwajith1530). Thank you for visiting and playing the game! 🚀
